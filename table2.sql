@@ -6,7 +6,7 @@ create table user3(
     QTYONHAND varchar(8),
     REORDERLVL varchar(9),
     SELLPRICE varchar(9),
-    COSTPRICE varchar(9)
+    COSTPRICE varchar(9),
 );
 
 insert into user3 (PRODUCTNO,DECSCRIPTION,PROFITPERCENT,UNITMEASURE,QTYONHAND,REORDERLVL,SELLPRICE,COSTPRICE)values
