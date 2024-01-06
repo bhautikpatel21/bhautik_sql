@@ -4,7 +4,7 @@ create table user2 (
     ADDRESS1 varchar(30),
     CITY  varchar(15),
     PINCODE varchar(8),
-    STATE varchar(15),
+    STATE varchar(15), 
     BALDUE int
 );
 

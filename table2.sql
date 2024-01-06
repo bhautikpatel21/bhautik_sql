@@ -19,3 +19,4 @@ insert into user3 (PRODUCTNO,DECSCRIPTION,PROFITPERCENT,UNITMEASURE,QTYONHAND,RE
 ('P07865','Denim shirtd','4','Piece','100','40','350','250'),
 ('P07975','Lycra Tops','5','Piece','70','30','300','175'),
 ('P08865','skirts','5','Piece','75','30','450','300');
+-- ________________________________________________________________________________________________--
