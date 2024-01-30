@@ -5,7 +5,7 @@ create table user(
         gender varchar(20),
         email varchar(30),
         mobileNo int
-);
+);    
 
 insert into user (id,firstname,lastname,gender,email,mobileNo) values(1,'bhautik','Dudhat','Male','bhautik@test.in',46646787);
 

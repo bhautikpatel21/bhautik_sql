@@ -1,7 +1,7 @@
 -- select name, city from user2;
 -- select *, city from user2;
 -- select name as "Full Name" from user2;
--- select name as "Full Name" city "District" from user2;
+-- select name as "Full Name" city "District" from user2;    
 
 -- where clause 
 -- select * from user2 where city = 'mumbai';

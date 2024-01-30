@@ -7,7 +7,7 @@ create table client_master(
     STATE varchar(15), 
     BALDUE int
 );
-
+   
 insert into client_master (CLIENTNO,NAME,ADDRESS1,CITY,PINCODE,STATE,BALDUE) values('C00001','Ivan bayross','A/14','Mumbai','400054','Maharashtra',15000);
 
 insert into client_master (CLIENTNO,NAME,ADDRESS1,CITY,PINCODE,STATE,BALDUE) values
