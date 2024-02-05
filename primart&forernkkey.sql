@@ -6,7 +6,7 @@ create table user2 (
     PINCODE varchar(8),
     STATE varchar(15), 
     BALDUE int
-);
+);  
 
 insert into user2 (CLIENTNO,NAME,ADDRESS1,CITY,PINCODE,STATE,BALDUE) values('C00001','Ivan bayross','A/14','Mumbai','400054','Maharashtra',15000);
 

@@ -7,7 +7,7 @@ select * from employees where officeCode >= 2 and jobTitle not in ('sales rep');
 select * from customers ;
 
 select * from customers where country not in ('usa');
-
+    
 select * from customers where customerNumber not between 150 and 200;
 
 select * from employees;

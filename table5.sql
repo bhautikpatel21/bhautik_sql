@@ -7,7 +7,7 @@ create table sales_orders_details(
    Qtydisp int,
    Productrate int
 );
-
+    
 insert into sales_orders_details(OrderNo,PRODUCTNO,Qtyordered,Qtydisp,Productrate)values
 ("O19001","P00001",4,4,525),
 ("O19001","P07965",2,1,8400),
